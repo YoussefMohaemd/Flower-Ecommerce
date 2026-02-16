@@ -5,6 +5,7 @@
   "compilerOptions": {
     "paths": {
       "auth-api": [
+        "./projects/auth-api/src/public-api.ts",
         "./dist/auth-api"
       ]
     },
